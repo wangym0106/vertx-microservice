@@ -1,0 +1,16 @@
+= Enums
+
+[[OrderEventType]]
+== OrderEventType
+
+
+[cols=">25%,75%"]
+[frame="topbot"]
+|===
+^|Name | Description
+|[[CREATED]]`CREATED`|-
+|[[PAID]]`PAID`|-
+|[[SHIPPED]]`SHIPPED`|-
+|[[DELIVERED]]`DELIVERED`|-
+|===
+

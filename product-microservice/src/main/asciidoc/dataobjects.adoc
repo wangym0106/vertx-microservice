@@ -1,0 +1,32 @@
+= Cheatsheets
+
+[[Product]]
+== Product
+
+
+[cols=">25%,^25%,50%"]
+[frame="topbot"]
+|===
+^|Name | Type ^| Description
+|[[illustration]]`illustration`|`String`|-
+|[[name]]`name`|`String`|-
+|[[price]]`price`|`Number (double)`|-
+|[[productId]]`productId`|`String`|-
+|[[sellerId]]`sellerId`|`String`|-
+|[[type]]`type`|`String`|-
+|===
+
+[[ProductTuple]]
+== ProductTuple
+
+
+[cols=">25%,^25%,50%"]
+[frame="topbot"]
+|===
+^|Name | Type ^| Description
+|[[amount]]`amount`|`Number (Integer)`|-
+|[[price]]`price`|`Number (Double)`|-
+|[[productId]]`productId`|`String`|-
+|[[sellerId]]`sellerId`|`String`|-
+|===
+

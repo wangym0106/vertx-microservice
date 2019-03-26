@@ -1,0 +1,16 @@
+= Cheatsheets
+
+[[Store]]
+== Store
+
+
+[cols=">25%,^25%,50%"]
+[frame="topbot"]
+|===
+^|Name | Type ^| Description
+|[[description]]`description`|`String`|-
+|[[name]]`name`|`String`|-
+|[[openTime]]`openTime`|`Number (Long)`|-
+|[[sellerId]]`sellerId`|`String`|-
+|===
+
